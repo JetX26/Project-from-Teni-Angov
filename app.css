@@ -997,6 +997,7 @@ div {
     .food-option {
         width: 90%;
         display: block;
+        border: 1px solid grey;
     }
 
     .ingredients-li ul {
@@ -1046,6 +1047,7 @@ div {
     .food-option {
         width: 90%;
         display: block;
+        border: 1px solid grey;
     }
 
     .ingredients-li ul {
@@ -1146,6 +1148,7 @@ div {
         /* display: inline-block; */
         /* width: 50%; */
         width: 45%;
+        border: 1px solid grey;
     }
 
     .ingredients-li ul {
@@ -1197,6 +1200,7 @@ div {
         /* display: inline-block; */
         /* width: 50%; */
         width: 45%;
+        border: 1px solid grey;
     }
 
     .ingredients-li ul {
