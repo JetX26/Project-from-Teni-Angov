@@ -3080,6 +3080,7 @@ div .telephone-people {
 
     .seventh-section .first-grid-row-images img {
         padding: 1%;
+        pointer-events: none;
     }
 }
 
@@ -3106,6 +3107,7 @@ div .telephone-people {
 
     .seventh-section .first-grid-row-images img {
         padding: 1%;
+        pointer-events: none;
     }
 }
 
@@ -3132,6 +3134,7 @@ div .telephone-people {
 
     .seventh-section .first-grid-row-images img {
         padding: 1%;
+        pointer-events: none;
     }
 }
 
@@ -3158,6 +3161,7 @@ div .telephone-people {
 
     .seventh-section .first-grid-row-images img {
         padding: 1%;
+pointer-events: none;
     }
 } */
 
