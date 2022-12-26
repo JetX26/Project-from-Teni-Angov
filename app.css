@@ -1093,6 +1093,7 @@ div {
     .food-option {
         width: 90%;
         display: block;
+        border: 1px solid grey;
     }
 
     .ingredients-li ul {
