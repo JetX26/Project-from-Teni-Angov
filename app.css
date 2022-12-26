@@ -2105,13 +2105,13 @@ div .telephone-people {
 
     form input[type="date"] {
         width: 90%;
-        height: 100%;
+        height: auto;
         padding: 10px 10px;
     }
 
     form input[type="time"] {
         width: 90%;
-        height: 100%;
+        height: auto;
         padding: 10px 10px;
     }
 
